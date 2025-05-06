@@ -3,7 +3,7 @@
 <!-- About Me -->
 I'm a passionate developer who loves building innovative projects, from cosmic-themed systems to interactive bots. My coding journey kicked off with JavaScript and Node.js, inspired by creating dynamic and automated solutions. I’ve worked on projects like a TypeScript/Javascript-based system for the Astral Express, blending creativity with technical precision.
 
-Currently, I’m diving deeper into ["Developing/Contributing Cassidy Spectra!"]. I enjoy experimenting with modern tools and frameworks to craft efficient, user-friendly projects, often with a sprinkle of cosmic flair.
+Currently, I’m diving deeper into Developing/Contributing Cassidy Spectra!. I enjoy experimenting with modern tools and frameworks to craft efficient, user-friendly projects, often with a sprinkle of cosmic flair.
 
 <!-- GitHub Stats -->
 ![MRKIMSTERS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRKIMSTERS&show_icons=true&theme=dark)
@@ -17,7 +17,7 @@ Currently, I’m diving deeper into ["Developing/Contributing Cassidy Spectra!"]
 
 <!-- Projects -->
 ### 🚀 Projects/Collaboration 
-- **[Cassidy Spectra 🌌](https://github.com/lianecagara/CassidySpectra)**: A TypeScript-based banking system with cosmic features like Stellar Credits and Cosmic Loyalty, built for the Astral EExpress
+- **[Cassidy Spectra 🌌](https://github.com/lianecagara/CassidySpectra)**: CassidySpectra is the first ever all-around (Personal Fb bot, Page Bot, Discord Bot, Web Bot) chatbot with the best Typescript Tooling and Rich Libraries. CassidySpectra is also a fork of CassidyRedux which is a revamped version of CassidyBoT with enhanced features and improved performance, created and well-maintained by Liane Cagara (lianecagara in github).
 
 <!-- Skills -->
 ### 🛠️ Skills
