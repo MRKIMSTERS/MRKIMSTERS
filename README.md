@@ -12,8 +12,8 @@ Currently, I’m diving deeper into Developing/Contributing Cassidy Spectra!. I 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRKIMSTERS&layout=compact&theme=dark)
 
 <!-- Social Media Links -->
-[![Facebook](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=facebook&logoColor=white)]([https://Facebook.com/MrkimstersDev])
-[![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=youtube&logoColor=white)]([https://www.youtube.com/@MrkimstersDev])
+[![Facebook](https://img.shields.io/badge/Facebook-1DA1F2?style=flat-square&logo=facebook&logoColor=white)]([https://Facebook.com/MrkimstersDev])
+[![Youtube](https://img.shields.io/badge/Youtube-E4405F?style=flat-square&logo=youtube&logoColor=white)]([https://www.youtube.com/@MrkimstersDev])
 
 <!-- Projects -->
 ### 🚀 Projects/Collaboration 
